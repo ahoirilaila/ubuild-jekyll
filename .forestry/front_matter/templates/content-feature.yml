@@ -42,4 +42,5 @@ fields:
   label: Media Alignment
   default: Right
 pages:
+- content.md
 - _posts/2019-07-18-biji.md
